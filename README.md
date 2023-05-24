@@ -22,7 +22,7 @@ git clone https://github.com/jonathanjua/test_jump
 ## 2. Entre no diretório do projeto:
 
 ```bash
-cd seu-projeto 
+cd test_jump 
 ```
 
 <br>
