@@ -89,7 +89,7 @@ Acesse o projeto em seu navegador utilizando a URL fornecida pelo comando `php a
 <br><br>
 # Documentação API 
 
-## Para ter acesso a documentação da api  [Acesse - Postman](https://documenter.getpostman.com/view/19815520/2s93m5zgaQ#01610057-c73a-42af-a9fd-ae4afe2a82a3)
+## Para ter acesso a documentação da api  [Acesse - Postman](https://documenter.getpostman.com/view/19815520/2s93m5zgaQ)
 
 
 
