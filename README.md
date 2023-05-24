@@ -13,7 +13,9 @@
 
 ## 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-projeto.git
+```bash
+git clone https://github.com/jonathanjua/test_jump
+```
 
 <br>
 
