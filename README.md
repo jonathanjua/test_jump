@@ -84,6 +84,13 @@ php artisan serve
 ```
 <br>
 
+## 10. Para executar teste com PHPUnit:
+
+```bash
+ php artisan test tests/Feature/Api/ServiceOrderTest.php
+```
+<br>
+
 ## Uso
 Acesse o projeto em seu navegador utilizando a URL fornecida pelo comando `php artisan serve`.
 <br><br>

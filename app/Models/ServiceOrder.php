@@ -25,8 +25,8 @@ class ServiceOrder extends Model
     protected $table = 'service_orders';
 
     protected $casts = [
-        'entryDateTime' => 'datetime',
-        'exitDateTime' => 'datetime',
+        'entryDateTime' => 'datetime:Y-m-d H:i:s',
+        'exitDateTime' => 'datetime:Y-m-d H:i:s',
     ];
 
     public function user()
